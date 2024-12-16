@@ -1,0 +1,8 @@
+columns:
+  tomatometer_status: string
+  tomatometer_rating: int64
+  tomatometer_count: int64
+  audience_count: int64
+  audience_rating: int64
+
+target_column: audience_rating
